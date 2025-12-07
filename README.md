@@ -1,6 +1,8 @@
 # MergeSortMaker
 
-## https://youtu.be/HaWOBTn0Q78 
+## [![Merge Sort Demo video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/HaWOBTn0Q78)
+
+
 
 ## <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/803d9a0f-5e0e-4502-b38a-845b36e5f4d5" /> 
  
